@@ -1,0 +1,16 @@
+#container {
+    text-align: center;
+}
+
+.row{
+    margin: 4px 0px;
+}
+
+#description {
+    margin: 10px 0px;
+}
+
+.button {
+    padding: 20px;
+    margin: 0 3px;
+}
